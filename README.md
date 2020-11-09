@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/MarkoKosmajac/InfoGather-Windows-Payload/blob/main/images/infogather.gif" alt="InfoGather" width="350" height="80" style="border-radius: 2px;"></p>
+<p align="center"><img src="https://github.com/MarkoKosmajac/InfoGather/blob/main/images/infogather.gif" alt="InfoGather" width="350" height="80" style="border-radius: 2px;"></p>
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/C%20Sharp-purple?label=Made%20With&style=flat-square%22%20alt=%22C#%20Language"></a> ||
