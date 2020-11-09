@@ -3,7 +3,7 @@
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/C%20Sharp-purple?label=Made%20With&style=flat-square%22%20alt=%22C#%20Language"></a> ||
 <a href="#"><img src="https://img.shields.io/badge/Payload-yellow?label=WINDOWS&style=flat-square" alt="Windows Payload"></a> ||
-<a href="https://github.com/XIT07/Config-openbullet/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-brightgreen?&style=flat-square" alt="License"></a>
+<a href="#"><img src="https://img.shields.io/badge/License-MIT-brightgreen?&style=flat-square" alt="License"></a>
 </p>
 <br>
 
